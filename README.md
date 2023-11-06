@@ -4,7 +4,15 @@
 The project is wholly written in Python
 
 
+
 OUTPUT-
+
+
+Rating prediction(Regression, Accuracy ~ 91.5%)
+![image](https://github.com/SidM77/movie-pred-recommendation/assets/102024701/d58da1c1-0ef1-4aa1-8caf-d88cbd421d52)
+
+
+
 Similarity based on overview
 ![image](https://github.com/SidM77/movie-pred-recommendation/assets/102024701/462855ef-ee2d-47b4-b57b-753398afbc26)
 
